@@ -1,6 +1,6 @@
 Python code that interacts with Algorand on behalf of Myrkle
 
-The code found here runs on algorand.myrkle.app
+The code found here runs on https://algorand.myrkle.app
 
 Run
 ```
